@@ -18,3 +18,5 @@ sudo rm -rf ~/Library/Developer/Xcode/Archives/*
 sudo rm -f ~/Library/Preferences/com.apple.dt.Instruments.plist
 
 sudo rm -f ~/Library/Preferences/com.apple.dt.Xcode.plist
+
+brew cleanup -n
